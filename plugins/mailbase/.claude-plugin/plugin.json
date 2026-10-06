@@ -1,0 +1,23 @@
+{
+  "name": "mailbase",
+  "displayName": "Mailbase",
+  "version": "1.0.1",
+  "description": "Run Mailbase from Claude Code: find clients, launch and test campaigns, triage replies, set up sending domains and automate follow-ups. Nothing is sent without your explicit approval.",
+  "author": {
+    "name": "Mailbase",
+    "email": "support@mailbase.studio",
+    "url": "https://mailbase.studio"
+  },
+  "homepage": "https://mailbase.studio",
+  "license": "MIT",
+  "keywords": [
+    "email",
+    "email marketing",
+    "campaigns",
+    "cold email",
+    "reply inbox",
+    "deliverability",
+    "prospecting",
+    "crm"
+  ]
+}

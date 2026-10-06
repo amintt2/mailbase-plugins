@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mailbase": {
+      "type": "http",
+      "url": "https://mailbase.studio/api/mcp/mcp"
+    }
+  }
+}
